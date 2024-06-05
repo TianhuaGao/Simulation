@@ -1,5 +1,7 @@
-## 下载视频
+## Video Download 
 
-您可以通过点击以下链接下载视频文件：
+Click following URL：
 
-[下载视频](https://github.com/TianhuaGao/Simulation/blob/main/test.mp4)
+[Video Download](https://github.com/TianhuaGao/Simulation/blob/main/test.mp4)
+
+Then click "view raw" to download this video.
